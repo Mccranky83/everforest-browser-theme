@@ -29,7 +29,7 @@
     },
     "tints": { "buttons": [0, 0, 0.44] },
     "properties": {
-      "ntp_background_alignment": "center",
+      "ntp_background_alignment": "stretch",
       "ntp_background_repeat": "no-repeat"
     }
   }
