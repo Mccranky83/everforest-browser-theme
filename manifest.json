@@ -5,6 +5,9 @@
   "manifest_version": 3,
   "theme": {
     "images": {
+      "theme_frame": "images/theme_frame.png",
+      "theme_toolbar": "images/theme_toolbar.png",
+      "theme_tab_background": "images/theme_tab_background.png",
       "theme_ntp_background": "images/japanese_store.png"
     },
     "colors": {
@@ -27,7 +30,7 @@
       "ntp_link": [127, 187, 179],
       "button_background": [211, 198, 170]
     },
-    "tints": { "buttons": [0, 0, 0.44] },
+    "tints": { "buttons": [0.14, 0.33, 0.8] },
     "properties": {
       "ntp_background_alignment": "stretch",
       "ntp_background_repeat": "no-repeat"
