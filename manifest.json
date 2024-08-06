@@ -5,9 +5,6 @@
   "manifest_version": 3,
   "theme": {
     "images": {
-      "theme_frame": "images/theme_frame.png",
-      "theme_toolbar": "images/theme_toolbar.png",
-      "theme_tab_background": "images/theme_tab_background.png",
       "theme_ntp_background": "images/japanese_store.png"
     },
     "colors": {
