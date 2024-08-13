@@ -10,8 +10,8 @@
     "colors": {
       "frame": [45, 53, 59],
       "frame_inactive": [45, 53, 59],
-      "frame_incognito": [58, 81, 93],
-      "frame_incognito_inactive": [58, 81, 93],
+      "frame_incognito": [45, 53, 59],
+      "frame_incognito_inactive": [45, 53, 59],
       "toolbar": [52, 63, 68],
       "toolbar_button_icon": [248, 248, 242],
       "omnibox_text": [211, 198, 170],
